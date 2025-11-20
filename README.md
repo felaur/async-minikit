@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.svg" width="220" alt="async-minikit logo"/>
+  <img src="./async-minikit/logo.svg" width="220" alt="async-minikit logo"/>
 </p>
 
 <h1 align="center">async-minikit</h1>
