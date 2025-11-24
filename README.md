@@ -17,10 +17,10 @@
   <a href="https://www.npmjs.com/package/async-minikit">
     <img src="https://img.shields.io/npm/dm/async-minikit?color=22c55e&style=for-the-badge" />
   </a>
-  <a href="https://github.com/devforgetech/async-minikit/stargazers">
-    <img src="https://img.shields.io/github/stars/devforgetech/async-minikit?color=facc15&style=for-the-badge" />
+  <a href="https://github.com/orvexis/async-minikit/stargazers">
+    <img src="https://img.shields.io/github/stars/orvexis/async-minikit?color=facc15&style=for-the-badge" />
   </a>
-  <a href="https://github.com/devforgetech/async-minikit/blob/main/LICENSE">
+  <a href="https://github.com/orvexis/async-minikit/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
   </a>
 </p>
